@@ -1,0 +1,7 @@
+Package Control
+BracketHighliigter
+Emmet (http://docs.emmet.io/cheat-sheet/)
+Daly Rees Color Scheme (https://github.com/daylerees/colour-schemes)
+SideBarEnhancements
+SublimeCodeIntel
+GitGutter
