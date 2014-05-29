@@ -5,3 +5,5 @@ Daly Rees Color Scheme (https://github.com/daylerees/colour-schemes)
 SideBarEnhancements
 SublimeCodeIntel
 GitGutter
+LESS
+AngularJS
